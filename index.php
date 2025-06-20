@@ -16,7 +16,7 @@ get_header();
 ?>
 
 	<main id="primary" class="site-main">
-
+		<h2>Updated to v1.0.2</h2>
 		<?php
 		if ( have_posts() ) :
 
